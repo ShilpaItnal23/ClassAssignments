@@ -1,0 +1,62 @@
+2022-02-24 22:45:49,540- INFO- Filtering digits and special characters
+2022-02-24 22:46:15,958- INFO- Filtering digits and special characters
+2022-02-24 22:46:21,545- INFO- The SQLite connection is closed
+2022-02-24 22:46:41,141- INFO- Filtering digits and special characters
+2022-02-24 22:47:43,955- INFO- Filtering digits and special characters
+2022-02-24 22:49:51,095- INFO- Filtering digits and special characters
+2022-02-25 10:42:01,818- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:42:47,509- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:43:15,699- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:43:56,703- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:47:17,078- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:49:44,287- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:50:58,246- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:52:13,861- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:56:45,885- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:00:52,858- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:01:09,662- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:01:25,891- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:02:08,388- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:02:44,588- INFO- This is a start of wordFrequency funcion in respective file 
+2022-02-25 11:02:44,589- INFO- This is start of wordcount program with respect to file
+2022-02-25 11:02:51,570- INFO- Counting all words based on first letter
+2022-02-25 11:02:51,571- INFO- Started counting words based on first character
+2022-02-25 11:03:00,119- INFO- Filtering digits and special characters
+2022-02-25 11:03:14,759- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:04:14,832- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:04:39,830- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:05:46,634- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:06:46,626- INFO- Filtering digits and special characters
+2022-02-25 11:06:58,681- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:16:22,098- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:18:25,198- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 11:19:32,059- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:30:08,430- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:30:52,925- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:31:49,991- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:33:43,356- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:34:08,042- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:34:26,195- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:34:45,417- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:35:09,461- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:35:25,770- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:36:19,991- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:41:03,591- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:41:12,163- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:41:33,878- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:58:42,321- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 12:59:05,320- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 13:00:30,035- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 13:00:30,037- INFO- Connected to SQLite
+2022-02-25 13:01:52,263- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 13:01:52,265- INFO- Connected to SQLite
+2022-02-25 13:02:14,643- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 13:02:14,644- INFO- Connected to SQLite
+2022-02-25 13:04:41,126- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 13:04:41,128- INFO- Connected to SQLite
+2022-02-25 13:05:28,986- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 13:05:28,987- INFO- Connected to SQLite
+2022-02-25 13:05:51,560- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 13:05:51,561- INFO- Connected to SQLite
+2022-02-25 13:06:35,695- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 13:06:35,696- INFO- Connected to SQLite

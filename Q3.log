@@ -1,0 +1,54 @@
+2022-02-24 22:05:33,968- INFO- Filtering digits and special characters
+2022-02-24 22:06:46,822- INFO- Filtering digits and special characters
+2022-02-24 22:06:46,823- INFO- Started filtering digits and special characters
+2022-02-24 22:07:04,230- INFO- Filtering digits and special characters
+2022-02-24 22:07:04,231- INFO- Started filtering digits and special characters
+2022-02-24 22:07:33,121- INFO- Filtering digits and special characters
+2022-02-24 22:07:33,122- INFO- Started filtering digits and special characters
+2022-02-24 22:09:00,190- INFO- Filtering digits and special characters
+2022-02-24 22:09:00,191- INFO- Started filtering digits and special characters
+2022-02-24 22:09:54,258- INFO- Filtering digits and special characters
+2022-02-24 22:09:54,259- INFO- Started filtering digits and special characters
+2022-02-24 22:10:47,140- INFO- Filtering digits and special characters
+2022-02-24 22:10:47,141- INFO- Started filtering digits and special characters
+2022-02-24 22:12:02,939- INFO- Filtering digits and special characters
+2022-02-24 22:12:02,940- INFO- Started filtering digits and special characters
+2022-02-24 22:13:04,983- INFO- Filtering digits and special characters
+2022-02-24 22:13:04,983- INFO- Started filtering digits and special characters
+2022-02-24 22:13:32,160- INFO- Filtering digits and special characters
+2022-02-24 22:13:32,161- INFO- Started filtering digits and special characters
+2022-02-24 22:15:52,160- INFO- Filtering digits and special characters
+2022-02-24 22:15:52,161- INFO- Started filtering digits and special characters
+2022-02-24 22:18:14,170- INFO- Filtering digits and special characters
+2022-02-24 22:18:33,951- INFO- Filtering digits and special characters
+2022-02-24 22:20:15,262- INFO- Filtering digits and special characters
+2022-02-24 22:20:31,706- INFO- Filtering digits and special characters
+2022-02-24 22:40:22,999- INFO- Filtering digits and special characters
+2022-02-24 22:40:23,001- INFO- Dumping 5 text file data into SqLite Database
+2022-02-24 22:41:09,355- INFO- Filtering digits and special characters
+2022-02-24 22:41:09,356- INFO- Dumping 5 text file data into SqLite Database
+2022-02-24 22:41:22,406- INFO- Filtering digits and special characters
+2022-02-24 22:41:22,407- INFO- Dumping 5 text file data into SqLite Database
+2022-02-24 22:41:45,402- INFO- Filtering digits and special characters
+2022-02-24 22:41:45,403- INFO- Dumping 5 text file data into SqLite Database
+2022-02-24 22:42:04,710- INFO- Filtering digits and special characters
+2022-02-24 22:42:04,711- INFO- Dumping 5 text file data into SqLite Database
+2022-02-24 22:43:42,120- INFO- Filtering digits and special characters
+2022-02-24 22:44:57,079- INFO- Filtering digits and special characters
+2022-02-25 14:21:54,257- INFO- Filtering digits and special characters
+2022-02-25 14:21:57,162- INFO- inside charFrequency function
+2022-02-25 14:21:57,162- ERROR- name 're' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_12292/1599599801.py", line 21, in extractAlphabets
+    return re.findall(r'[a-zA-Z]+', string)
+NameError: name 're' is not defined
+2022-02-25 14:22:26,807- INFO- Filtering digits and special characters
+2022-02-25 14:22:30,582- INFO- inside charFrequency function
+2022-02-25 14:22:30,583- ERROR- [Errno 2] No such file or directory: 'samplet.txt'
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_12292/4141453608.py", line 21, in extractAlphabets
+    string = open(fname, encoding = "utf8" ).read()
+FileNotFoundError: [Errno 2] No such file or directory: 'samplet.txt'
+2022-02-25 14:24:24,541- INFO- Filtering digits and special characters
+2022-02-25 14:25:33,933- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 14:25:33,935- INFO- Connected to SQLite

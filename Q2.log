@@ -1,0 +1,54 @@
+2022-02-24 20:55:50,215- INFO- Counting all words based on first letter
+2022-02-24 20:55:50,216- INFO- Started counting words based on first character
+2022-02-24 20:55:53,444- INFO- inside charFrequency function
+2022-02-24 20:55:53,444- ERROR- error has occured 
+2022-02-24 20:55:53,444- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_10220/883184741.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-24 20:56:23,314- INFO- This is a start of wordFrequency funcion 
+2022-02-24 20:56:30,017- INFO- Counting all words based on first letter
+2022-02-24 20:56:30,019- INFO- Started counting words based on first character
+2022-02-24 20:56:33,200- INFO- inside charFrequency function
+2022-02-24 20:56:33,201- ERROR- error has occured 
+2022-02-24 20:56:33,201- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_10220/883184741.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-24 20:58:07,613- INFO- Counting all words based on first letter
+2022-02-24 20:58:07,614- INFO- Started counting words based on first character
+2022-02-24 20:58:10,397- INFO- inside charFrequency function
+2022-02-24 20:58:10,397- ERROR- error has occured 
+2022-02-24 20:58:10,397- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_10220/3506680821.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-24 20:59:47,912- INFO- Counting all words based on first letter
+2022-02-24 21:00:04,393- INFO- Started counting words based on first character
+2022-02-24 21:00:07,535- INFO- inside charFrequency function
+2022-02-24 21:00:07,535- ERROR- error has occured 
+2022-02-24 21:00:07,536- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_10220/2440457175.py", line 37, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-24 21:00:24,196- INFO- Started counting words based on first character
+2022-02-24 21:00:27,322- INFO- inside charFrequency function
+2022-02-24 21:00:27,323- ERROR- error has occured 
+2022-02-24 21:00:27,323- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_10220/2440457175.py", line 37, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-24 21:01:04,376- INFO- Counting all words based on first letter
+2022-02-24 21:01:05,071- INFO- Started counting words based on first character
+2022-02-24 21:01:09,228- INFO- inside charFrequency function
+2022-02-24 21:01:09,228- ERROR- error has occured 
+2022-02-24 21:01:09,229- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_10220/3432877258.py", line 37, in charFrequency
+    dict2 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined

@@ -1,0 +1,139 @@
+2022-02-25 09:57:52,195- INFO- This is a start of wordFrequency funcion in respective file 
+2022-02-25 09:57:52,196- INFO- This is start of wordcount program with respect to file
+2022-02-25 09:58:13,936- INFO- Counting all words based on first letter
+2022-02-25 09:58:13,937- INFO- Started counting words based on first character
+2022-02-25 09:58:17,061- INFO- inside charFrequency function
+2022-02-25 09:58:17,061- ERROR- error has occured 
+2022-02-25 09:58:17,061- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/99001076.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 09:59:07,409- INFO- Counting all words based on first letter
+2022-02-25 09:59:07,411- INFO- Started counting words based on first character
+2022-02-25 09:59:10,477- INFO- inside charFrequency function
+2022-02-25 09:59:10,479- ERROR- error has occured 
+2022-02-25 09:59:10,479- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/99501626.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:00:00,489- INFO- Counting all words based on first letter
+2022-02-25 10:00:00,491- INFO- Started counting words based on first character
+2022-02-25 10:00:03,289- INFO- inside charFrequency function
+2022-02-25 10:00:03,289- ERROR- error has occured 
+2022-02-25 10:00:03,290- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/2092655950.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:00:13,595- INFO- Counting all words based on first letter
+2022-02-25 10:00:13,596- INFO- Started counting words based on first character
+2022-02-25 10:00:16,145- INFO- inside charFrequency function
+2022-02-25 10:00:16,146- ERROR- error has occured 
+2022-02-25 10:00:16,146- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/3025499195.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:00:33,948- INFO- Counting all words based on first letter
+2022-02-25 10:00:33,949- INFO- Started counting words based on first character
+2022-02-25 10:00:36,919- INFO- inside charFrequency function
+2022-02-25 10:00:36,919- ERROR- error has occured 
+2022-02-25 10:00:36,919- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/552530952.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:01:53,392- INFO- Counting all words based on first letter
+2022-02-25 10:01:53,393- INFO- Started counting words based on first character
+2022-02-25 10:01:57,278- INFO- inside charFrequency function
+2022-02-25 10:01:57,279- ERROR- error has occured 
+2022-02-25 10:01:57,279- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/1324619423.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:02:42,671- INFO- Counting all words based on first letter
+2022-02-25 10:02:42,672- INFO- Started counting words based on first character
+2022-02-25 10:02:45,518- INFO- inside charFrequency function
+2022-02-25 10:02:45,519- ERROR- error has occured 
+2022-02-25 10:02:45,519- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/1999807051.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:03:47,916- INFO- Counting all words based on first letter
+2022-02-25 10:03:47,917- INFO- Started counting words based on first character
+2022-02-25 10:03:50,715- INFO- inside charFrequency function
+2022-02-25 10:03:50,717- ERROR- error has occured 
+2022-02-25 10:03:50,717- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/1999807051.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:04:39,275- INFO- Counting all words based on first letter
+2022-02-25 10:04:39,276- INFO- Started counting words based on first character
+2022-02-25 10:04:41,352- INFO- inside charFrequency function
+2022-02-25 10:04:41,352- ERROR- error has occured 
+2022-02-25 10:04:41,352- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/2764953424.py", line 38, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:10:52,937- INFO- Counting all words based on first letter
+2022-02-25 10:10:56,367- INFO- inside charFrequency function
+2022-02-25 10:10:56,367- ERROR- error has occured 
+2022-02-25 10:10:56,367- ERROR- name 'OrderedDict' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_1124/563784882.py", line 37, in charFrequency
+    dict1 = OrderedDict(sorted(di.items()))
+NameError: name 'OrderedDict' is not defined
+2022-02-25 10:13:22,338- INFO- Counting all words based on first letter
+2022-02-25 10:13:30,692- INFO- Counting all words based on first letter
+2022-02-25 10:13:57,715- INFO- Counting all words based on first letter
+2022-02-25 10:13:57,717- INFO- Started counting words based on first character
+2022-02-25 10:14:09,004- INFO- Filtering digits and special characters
+2022-02-25 10:16:25,061- INFO- Filtering digits and special characters
+2022-02-25 10:17:25,002- INFO- Filtering digits and special characters
+2022-02-25 10:17:31,486- INFO- Filtering digits and special characters
+2022-02-25 10:21:09,892- INFO- Filtering digits and special characters
+2022-02-25 10:21:46,226- INFO- Filtering digits and special characters
+2022-02-25 10:21:52,552- INFO- Filtering digits and special characters
+2022-02-25 10:22:58,221- INFO- Filtering digits and special characters
+2022-02-25 10:23:57,818- INFO- Filtering digits and special characters
+2022-02-25 10:24:22,045- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:24:24,192- INFO- Counting all words based on first letter
+2022-02-25 10:25:10,644- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:32:34,682- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:33:39,659- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:37:04,925- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:39:30,042- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:40:38,448- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 10:40:55,883- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 14:19:27,813- INFO- This is a start of wordFrequency funcion in respective file 
+2022-02-25 14:19:28,114- INFO- This is start of wordcount program with respect to file
+2022-02-25 14:19:59,875- INFO- Counting all words based on first letter
+2022-02-25 14:19:59,876- INFO- Started counting words based on first character
+2022-02-25 14:20:24,225- INFO- Filtering digits and special characters
+2022-02-25 14:20:29,925- INFO- inside charFrequency function
+2022-02-25 14:20:29,926- ERROR- error has occured 
+2022-02-25 14:20:29,926- ERROR- name 're' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_14104/1640698517.py", line 21, in extractAlphabets
+    return re.findall(r'[a-zA-Z]+', string)
+NameError: name 're' is not defined
+2022-02-25 14:20:53,660- INFO- Filtering digits and special characters
+2022-02-25 14:20:58,600- INFO- inside charFrequency function
+2022-02-25 14:20:58,600- ERROR- name 're' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp/ipykernel_14104/3990812861.py", line 21, in extractAlphabets
+    return re.findall(r'[a-zA-Z]+', string)
+NameError: name 're' is not defined
+2022-02-25 14:27:31,853- INFO- This is a start of wordFrequency funcion in respective file 
+2022-02-25 14:27:31,854- INFO- This is start of wordcount program with respect to file
+2022-02-25 14:27:39,025- INFO- Counting all words based on first letter
+2022-02-25 14:27:39,026- INFO- Started counting words based on first character
+2022-02-25 14:27:44,977- INFO- Filtering digits and special characters
+2022-02-25 14:28:56,706- INFO- Zipping the data from 5 files andn dumping into SqLite
+2022-02-25 14:28:56,707- INFO- Connected to SQLite
